@@ -1,2 +1,1 @@
-//Nope :|
-//Language: Vietnamese
+
